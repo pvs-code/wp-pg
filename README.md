@@ -1,0 +1,2 @@
+# wp-pg
+wp-sync
