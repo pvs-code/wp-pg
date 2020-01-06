@@ -8,8 +8,8 @@ permalink: 'https://eke.twv.mybluehost.me/%d0%be-%d0%bd%d0%b0%d1%81/'
 published: true
 post_date: 2020-01-06 23:29:40
 ---
-<!-- wp:heading -->
-<h2>Знакомство с русской субботней школой</h2>
+<!-- wp:heading {"align":"center"} -->
+<h2 class="has-text-align-center">Знакомство</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
