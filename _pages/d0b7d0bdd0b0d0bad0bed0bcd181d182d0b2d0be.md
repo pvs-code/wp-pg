@@ -25,11 +25,7 @@ post_date: 2019-11-04 01:51:16
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>School Line:&nbsp;<strong>1 (647) 812-1052</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>E-mail: <a href="mailto:contact@eruditeschool.com?subject=">contact@eruditeschool.com</a><br>Natalia Poliakova</p>
+<p>E-mail:&nbsp;<a href="mailto:contact@eruditeschool.com?subject=">contact@eruditeschool.com</a><br>Natalia Poliakova</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
