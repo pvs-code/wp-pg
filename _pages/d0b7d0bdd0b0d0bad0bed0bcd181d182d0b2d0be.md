@@ -8,6 +8,10 @@ permalink: 'https://eke.twv.mybluehost.me/%d0%b7%d0%bd%d0%b0%d0%ba%d0%be%d0%bc%d
 published: true
 post_date: 2019-11-04 01:51:16
 ---
+<!-- wp:table -->
+<figure class="wp-block-table"><table class=""><tbody><tr><td> <strong>Erudite School </strong><br><br> <strong>Saturday School and Drama Studio</strong><br> 2323 Bloor Street West, Unit 216<br>Toronto, ON<br>M6S 4W1<br> <br> E-mail: <a href="mailto:contact@eruditeschool.com?subject=">contact@eruditeschool.com</a><br>Natalia Poliakova<br> Principal<br> 1 (416) 569-0886<br> E-mail: <a href="mailto:contact@eruditeschool.com?subject=">saturday@eruditeschool.com</a> </td><td> </td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
 <!-- wp:paragraph -->
 <p><strong>Erudite School&nbsp;</strong><br></p>
 <!-- /wp:paragraph -->
